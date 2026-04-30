@@ -54,7 +54,7 @@ The goal of this repository is to document real-world style penetration testing 
 
 ---
 
-📌 Notes
+## 📌 Notes
 
 This repository will be updated regularly as I complete more machines and improve my skills.
 
