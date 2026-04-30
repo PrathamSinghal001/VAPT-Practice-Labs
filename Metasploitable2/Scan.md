@@ -550,4 +550,8 @@ Critical
 - Disable script execution in upload directories
 
 ---
+---
+---
 
+### NOTE: 
+All testing and exploitation were performed manually in a controlled lab environment. AI tools were used only to assist in structuring and refining the report.
