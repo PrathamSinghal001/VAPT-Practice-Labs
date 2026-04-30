@@ -41,7 +41,7 @@ The goal of this repository is to document real-world style penetration testing 
 * Multiple critical vulnerabilities identified and exploited
 * Includes FTP backdoor, SMB misconfiguration, Bindshell access, WebDAV RCE, and DoS attack
 
-👉 [View Full Report](./metasploitable2/)
+👉 [View Full Report](./Metasploitable2/)
 
 ---
 
